@@ -11,6 +11,13 @@
     <img src="https://img.shields.io/github/stars/dmtzs/SmartTerrariumA">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/languages/code-size/dmtzs/SmartTerrariumA">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dmtzs/SmartTerrariumA">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/dmtzs/SmartTerrariumA?label=total%20lines%20in%20repo">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dmtzs/SmartTerrariumA">
+</p>
+
 ## The project
 The purpose of this project is to manage the parameters of reptile pets. This is the Arduino only version.
 <br>
