@@ -21,5 +21,3 @@
 ## The project
 The purpose of this project is to manage the parameters of reptile pets. This is the Arduino only version.
 <br>
-
-# This project is open and still in development
